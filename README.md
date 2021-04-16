@@ -1,11 +1,11 @@
 ## Sylvain Cetre
-work in progress.
 
-# Header 1-1
+
+# Something
 test
-## Header 2
+## something else related to something
 more test
-### Header 3
+### another thing
 still testing
-# Header 1-2
+# and the last thing
 done
